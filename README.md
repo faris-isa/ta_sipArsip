@@ -9,7 +9,7 @@ Untuk melakukan pengaturan :
 ```
 * axios url (interaksi menggunakan restApi)
 ``` bash
-/frontend/axios.js
+/frontend/src/axios.js
 ```
 
 Untuk panduan pemakaian bisa melihat masing-masing 
